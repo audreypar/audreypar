@@ -3,7 +3,7 @@
 
 ### **Welcome to my profile!** 
 
-I'm Audrey, a self thought data analyst with a background in social sciences.  
+I'm Audrey, a data analyst with a background in social sciences.  
 I'll be posting my projects here for all to see! 
 
 
