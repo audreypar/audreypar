@@ -9,9 +9,9 @@ I graduated a little over a year ago with my bachelors in psychology and crimino
 
 :triangular_ruler: **Skills**  
 
-> Databases: SQL (SWLite, MySQL, SQL Server), Excel
-> Python: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn  
-> Visualization: Tableau, Cognos, Power BI
-> Statistics: SPSS, JASP
+- Databases: SQL (SWLite, MySQL, SQL Server), Excel
+- Python: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn  
+- Visualization: Tableau, Cognos, Power BI
+- Statistics: SPSS, JASP
 
 ![nyancat2](https://user-images.githubusercontent.com/107768549/216374628-b1f8f39f-49ac-4cf3-8f5f-f3ccebf5e033.gif)
