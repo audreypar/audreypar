@@ -9,7 +9,7 @@ I graduated a little over a year ago with my bachelors in psychology and crimino
 
 :triangular_ruler: **Skills**  
 
-- Databases: SQL (SWLite, MySQL, SQL Server), Excel
+- Databases: SQL (SQLite, MySQL, SQL Server), Excel
 - Python: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn  
 - Visualization: Tableau, Cognos, Power BI
 - Statistics: SPSS, JASP
